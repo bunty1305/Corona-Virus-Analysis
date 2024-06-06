@@ -4,14 +4,14 @@
 The CORONA VIRUS pandemic has significantly impacted public health and has created an urgent need for data-driven insights to understand the spread of the virus. As a data analyst, you have been tasked with analyzing a CORONA VIRUS dataset to derive meaningful insights and present your findings.
 
 ## Dataset:
-Description of each column in dataset:
-`province`: Geographic subdivision within a country/region.
-`country_or_region`: Geographic entity where data is recorded.
-`latitude`: North-south position on Earth's surface.
-`longitude`: East-west position on Earth's surface.
-`date`: Recorded date of CORONA VIRUS data.
-`confirmed`: Number of diagnosed CORONA VIRUS cases.
-`deaths`: Number of CORONA VIRUS related deaths.
+Description of each column in dataset: <br>
+`province`: Geographic subdivision within a country/region.<br>
+`country_or_region`: Geographic entity where data is recorded.<br>
+`latitude`: North-south position on Earth's surface.<br>
+`longitude`: East-west position on Earth's surface.<br>
+`date`: Recorded date of CORONA VIRUS data.<br>
+`confirmed`: Number of diagnosed CORONA VIRUS cases.<br>
+`deaths`: Number of CORONA VIRUS related deaths.<br>
 `recovered`: Number of recovered CORONA VIRUS cases.
 
 ## Insights
